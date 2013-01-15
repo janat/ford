@@ -1,3 +1,3 @@
 ford
 ====
-This is repo for the Ford App project.
+This repo is for the Ford App project.
